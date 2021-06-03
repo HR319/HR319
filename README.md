@@ -1,3 +1,5 @@
+<a href="https://www.canva.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/HR319/HR319/main/img/Screenshot%20(32).png" height="300" width="1500" /></a>
+
 <h1 align="center">Hi 👋, I'm Harmi Ravani</h1>
 <h3 align="center">A very curious LEARNER.</h3>
 
