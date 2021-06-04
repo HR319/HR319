@@ -10,9 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/harm_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harm_123" height="30" width="40" /></a>
-<a href="https://www.instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/HR319/HR319/main/img/insta.jpg" height="30" width="40" /></a>
-  <a href="https://www.facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/HR319/HR319/main/img/fb%20logo.png" height="30" width="40" /></a>
-   <a href="https://www.linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/HR319/HR319/main/img/linkedin%20logo.png" height="30" width="40" /></a>
+<a href="https://www.instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/HR319/HR319/main/img/insta.png" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/linkedIn.png?raw=true" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/HR319/HR319/main/img/gfg.png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
